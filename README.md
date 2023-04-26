@@ -6,4 +6,4 @@ Framework: Django
 Database: SQLite
 Design: Bootstrap
 
-Demo image: [Demo Image](image.png)
+Demo image: ![Demo Image](image.png)
